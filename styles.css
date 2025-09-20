@@ -46,6 +46,10 @@ a {
   text-decoration: none;
 }
 
+a:hover {
+  text-decoration: underline;
+}
+
 pre {
   overflow: auto;
   background: var(--code-background-color);
